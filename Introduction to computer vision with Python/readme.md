@@ -19,7 +19,7 @@ This is the first online webinar conducted by Pie & AI: Kochi series .
 This session focuses on Computer Vision (with python) ,  an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.
 
 For this event, our guest speaker is :
-Kurian Benoy : Developer | Tech Speaker, Pycon India | GCI Mentor 2019| FOSS ASIA OpenTech Nights Winner
+[Kurian Benoy](https://www.linkedin.com/in/kurianbenoy/) : Developer | Tech Speaker, Pycon India | GCI Mentor 2019| FOSS ASIA OpenTech Nights Winner
 
 ## Python Resources
 
