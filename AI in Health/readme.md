@@ -4,6 +4,7 @@ September 20th, Sunday - Pie & AI : Kochi
 
 [Eventbrite link](https://www.eventbrite.com/e/pie-ai-kochi-ai-in-health-tickets-142252151013#)
 
+Check out the whole session here [Youtube link](https://www.youtube.com/watch?v=w2tIdkztygs&t=4s)
 In this beginner-friendly session, Anusree S shares her insights on  the best practices , the latest uses of AI in health and future of AI in a Health Care.
 
 This is  another  online webinar conducted by Pie & AI: Kochi series .
