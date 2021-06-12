@@ -13,5 +13,5 @@ AI offers a number of advantages over traditional analytics and clinical decisio
  For this event, our guest speaker is :
 [Anusree S](https://www.linkedin.com/in/anusreesaji) : Director,Pehia Foundation| AI Engineer,Innovation Incubator | Google APAC Womentechmakers Scholar | Google-GHCI Schola
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/AI%20in%20Health/WhatsApp%20Image%202021-02-23%20at%201.12.28%20PM.jpeg)
 
