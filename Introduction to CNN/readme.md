@@ -12,4 +12,4 @@ This session focuses on Convolutional Neural Network , is a class of deep neural
 For this event, our guest speaker is :
 [Soumen Sinha](https://www.linkedin.com/in/soumen-sinha/) : Software Engineer, NCR
 
-![Pie and AI](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20computer%20vision%20with%20Python/Screenshot%202021-06-12%20at%207.46.15%20PM.png)
+![Pie and AI](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20CNN/Screenshot%202021-06-12%20at%208.31.04%20PM.png)
