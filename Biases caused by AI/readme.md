@@ -13,6 +13,9 @@ AI bias is an anomaly in the output of machine learning algorithms.
 These could be due to the prejudiced assumptions made during the algorithm development process or prejudices in the training data.
 In this session, Anusree S shares her insights on  the best practices to avoid  Biases caused by AI and the why are they caused.
 
+For this event, our guest speaker is :
+[Anusree S](https://www.linkedin.com/in/anusreesaji) : Director,Pehia Foundation| AI Engineer,Innovation Incubator | Google APAC Womentechmakers Scholar | Google-GHCI Schola
+
 ![alt text](https://github.com/voldemortuk/Pie-AI-Kochi-Sessions/blob/main/Biases%20caused%20by%20AI/bia.jpg)
 
 
