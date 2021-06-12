@@ -10,6 +10,9 @@ Just as electricity transformed almost everything 100 years ago, today I actuall
  Pie & AI is a series of deeplearning.ai meetups independently hosted by community groups.
  Whether you want to build algorithms or build a company, deeplearning. ai's courses will teach you key concepts and applications of AI. 
  
+ This session focuses on Computer Vision (with python) ,  an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.
+
+For this event, our guest speaker is : [Kurian Benoy](https://www.linkedin.com/in/kurianbenoy/) : Developer | Tech Speaker, Pycon India | GCI Mentor 2019| FOSS ASIA OpenTech Nights Winner
 
 ![Pie and AI](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20computer%20vision%20with%20Python/Screenshot%202021-06-12%20at%207.46.15%20PM.png)
 
