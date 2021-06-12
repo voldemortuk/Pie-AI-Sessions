@@ -6,3 +6,5 @@ Events typically include conversations with leaders in the world, thought-provok
 hands-on project practice, and pies (or other desserts you prefer.)
 
 This event is hosted by event ambassador [Utkarsh Raj](https://voldemortuk.github.io)
+
+Check out all the latest session on our youtube channel
