@@ -3,7 +3,7 @@
 Saturday, June 12 - Biases caused by AI
 
 
-[Eventbrite link](https://www.eventbrite.com/e/pie-ai-kochi-biases-caused-by-ai-tickets-158486963775)
+Use this to register for the session[Eventbrite link](https://www.eventbrite.com/e/pie-ai-kochi-biases-caused-by-ai-tickets-158486963775)
 
 Check out the whole session here [Youtube link]()
 
