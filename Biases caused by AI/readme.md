@@ -12,6 +12,7 @@ AI bias is an anomaly in the output of machine learning algorithms.
 These could be due to the prejudiced assumptions made during the algorithm development process or prejudices in the training data.
 In this session, Anusree S shares her insights on  the best practices to avoid  Biases caused by AI and the why are they caused.
 
+![alt text](https://github.com/voldemortuk/Pie-AI-Kochi-Sessions/blob/main/Biases%20caused%20by%20AI/bia.jpg)
 
 [Youtube link]()
 
