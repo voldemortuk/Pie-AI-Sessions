@@ -7,7 +7,7 @@ Use this to register for the session[Eventbrite link](https://www.eventbrite.com
 
 Check out the whole session here [Youtube link]()
 
-Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by event ambassador Utkarsh Raj & Arya Vinod. Special thanks to their support!
+Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by event ambassador [Utkarsh Raj](https://voldemortuk.github.io) & Arya Vinod. Special thanks to their support!
 
 AI bias is an anomaly in the output of machine learning algorithms. 
 These could be due to the prejudiced assumptions made during the algorithm development process or prejudices in the training data.
