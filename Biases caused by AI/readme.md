@@ -1,0 +1,17 @@
+# Biases caused by AI
+
+Saturday, June 12 - Biases caused by AI
+
+
+[Eventbrite link](https://www.eventbrite.com/e/pie-ai-kochi-biases-caused-by-ai-tickets-158486963775)
+
+
+Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by event ambassador Utkarsh Raj & Arya Vinod. Special thanks to their support!
+
+AI bias is an anomaly in the output of machine learning algorithms. 
+These could be due to the prejudiced assumptions made during the algorithm development process or prejudices in the training data.
+In this session, Anusree S shares her insights on  the best practices to avoid  Biases caused by AI and the why are they caused.
+
+
+[Youtube link]()
+
