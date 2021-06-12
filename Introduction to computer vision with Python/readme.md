@@ -4,6 +4,18 @@ August 9th, Sunday - Pie & AI : Kochi
 
 [Eventbrite link](https://www.eventbrite.com/e/pieai-kochi-introduction-to-deep-learning-tickets-114617514070?aff=)
 
+
+“Just as electricity transformed almost everything 100 years ago, today I actually have a hard time thinking of an industry that I don’t think AI (Artificial Intelligence) will transform in the next several years.” ~Andrew Ng
+
+ Pie & AI is a series of deeplearning.ai meetups independently hosted by community groups.
+  Whether you want to build algorithms or build a company, deeplearning. ai's courses will teach you key concepts and applications of AI. 
+ 
+
+Date   :   09th August 2020 
+Time  :    9:00 AM - 2:00 PM 
+Platform  :  Zoom
+
+
 ## Python Resources
 
 - [Python for everybody course](https://www.coursera.org/specializations/python)
