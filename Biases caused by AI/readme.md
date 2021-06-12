@@ -16,4 +16,15 @@ In this session, Anusree S shares her insights on  the best practices to avoid  
 ![alt text](https://github.com/voldemortuk/Pie-AI-Kochi-Sessions/blob/main/Biases%20caused%20by%20AI/bia.jpg)
 
 
+## Some snaps from the session
 
+![alt text](https://github.com/voldemortuk/Pie-AI-Kochi-Sessions/blob/main/Biases%20caused%20by%20AI/Screenshot%202021-06-12%20at%206.40.34%20PM.png)
+
+
+![alt text](https://github.com/voldemortuk/Pie-AI-Kochi-Sessions/blob/main/Biases%20caused%20by%20AI/Screenshot%202021-06-12%20at%206.46.32%20PM.png)
+
+
+![alt text](https://github.com/voldemortuk/Pie-AI-Kochi-Sessions/blob/main/Biases%20caused%20by%20AI/Screenshot%202021-06-12%20at%206.53.46%20PM.png)
+
+
+![alt text](https://github.com/voldemortuk/Pie-AI-Kochi-Sessions/blob/main/Biases%20caused%20by%20AI/Screenshot%202021-06-12%20at%207.22.37%20PM.png)
