@@ -14,6 +14,13 @@ Just as electricity transformed almost everything 100 years ago, today I actuall
 ![Pie and AI](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20computer%20vision%20with%20Python/Screenshot%202021-06-12%20at%207.46.15%20PM.png)
 
 
+This is the first online webinar conducted by Pie & AI: Kochi series .
+
+This session focuses on Computer Vision (with python) ,  an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.
+
+For this event, our guest speaker is :
+Kurian Benoy : Developer | Tech Speaker, Pycon India | GCI Mentor 2019| FOSS ASIA OpenTech Nights Winner
+
 ## Python Resources
 
 - [Python for everybody course](https://www.coursera.org/specializations/python)
