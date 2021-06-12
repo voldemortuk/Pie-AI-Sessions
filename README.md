@@ -8,3 +8,6 @@ hands-on project practice, and pies (or other desserts you prefer.)
 These events are hosted by event ambassador [Utkarsh Raj](https://voldemortuk.github.io)
 
 Check out all the latest session on our [Youtube channel](https://www.youtube.com/channel/UCuXvJwbgrDRAhk17A56WHwA)
+
+
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Biases%20caused%20by%20AI/PIEAIbanners_Generic_PieandAI_Generic_Eventbrite.jpg)
