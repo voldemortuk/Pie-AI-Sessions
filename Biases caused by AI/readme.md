@@ -5,7 +5,7 @@ Saturday, June 12 - Biases caused by AI
 
 Use this to register for the session[Eventbrite link](https://www.eventbrite.com/e/pie-ai-kochi-biases-caused-by-ai-tickets-158486963775)
 
-Check out the whole session here [Youtube link]()
+Check out the whole session here [Youtube link](https://youtu.be/rRFy88xBMIU)
 
 Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by event ambassador [Utkarsh Raj](https://voldemortuk.github.io) & Arya Vinod. Special thanks to their support!
 
