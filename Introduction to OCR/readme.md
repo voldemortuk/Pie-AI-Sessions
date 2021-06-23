@@ -22,5 +22,5 @@ Check this out for more details  :
 
  For this event, our guest speaker is :
 [Karthik K](https://www.linkedin.com/in/karthik1997/) : AI Engineer | Cloud Facilitator | Product Enthusiast | Public Speaker |
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20OCR/WhatsApp%20Image%202021-06-23%20at%208.10.34%20PM.jpeg)
 
