@@ -18,7 +18,7 @@ In this session, Vishwas N will share a rundown of how AI is being used in finan
 For this event, our guest speaker is :
 [Vishwas N](https://www.linkedin.com/in/vishwas-n-0590591b0/) 
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/AI%20in%20Finance%20and%20Market%20Intelligence/sessionAIinMI.jpeg)
 
 
 ## Some snaps from the session
