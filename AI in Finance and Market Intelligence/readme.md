@@ -21,6 +21,9 @@ For this event, our guest speaker is :
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/AI%20in%20Finance%20and%20Market%20Intelligence/sessionAIinMI.jpeg)
 
 
+## Session Resources 
+
+
 ## Some snaps from the session
 
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/AI%20in%20Finance%20and%20Market%20Intelligence/first.png)
