@@ -2,7 +2,7 @@
 
 Pie & AI: Palakkad and Pie & AI: Kochi by DeepLearning.AI presents 
 
-Saturday, June 12 - Biases caused by AI
+Saturday, June 26 - AI in Finance and Market Intelligence
 
 
 Use this to register for the session[Eventbrite link](bit.ly/AIinFinanceMI)
