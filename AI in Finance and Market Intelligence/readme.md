@@ -16,7 +16,7 @@ In this session, Vishwas N will share a rundown of how AI is being used in finan
 
 
 For this event, our guest speaker is :
-[Vishwas N]() : 
+[Vishwas N](https://www.linkedin.com/in/vishwas-n-0590591b0/) 
 
 ![alt text]()
 
