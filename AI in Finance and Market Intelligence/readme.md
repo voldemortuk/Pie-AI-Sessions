@@ -7,7 +7,7 @@ Saturday, June 12 - Biases caused by AI
 
 Use this to register for the session[Eventbrite link](bit.ly/AIinFinanceMI)
 
-Check out the whole session here [Youtube link](https://youtu.be/rRFy88xBMIU)
+Check out the whole session here [Youtube link]()
 
 Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by event ambassador [Utkarsh Raj](https://voldemortuk.github.io) & Arya Vinod. Special thanks to their support!
 
@@ -23,13 +23,11 @@ For this event, our guest speaker is :
 
 ## Some snaps from the session
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/AI%20in%20Finance%20and%20Market%20Intelligence/first.png)
 
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/AI%20in%20Finance%20and%20Market%20Intelligence/second.png)
 
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/AI%20in%20Finance%20and%20Market%20Intelligence/third.png)
 
-
-![alt text]()
