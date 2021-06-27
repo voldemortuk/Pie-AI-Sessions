@@ -23,6 +23,37 @@ For this event, our guest speaker is :
 
 ## Session Resources 
 
+### Code :  
+
+https://github.com/vishwas1234567/stockapp_multiple/
+
+https://github.com/vishwas1234567/stremlitapp-stocks_app
+
+### Papers : 
+
+https://arxiv.org/ftp/arxiv/papers/1808/1808.08497.pdf
+
+https://arxiv.org/pdf/1912.07211.pdf
+
+https://arxiv.org/pdf/2002.05786.pdf
+
+https://www.cs.cmu.edu/~sandholm/Tartanian_ACPC12_CR.pdf
+
+https://arxiv.org/pdf/2012.01850.pdf
+
+https://arxiv.org/pdf/2101.10121.pdf
+
+https://arxiv.org/pdf/2103.11874.pdf
+
+### The podcast that our speaker did with Bill Schmarzo : 
+
+https://youtu.be/4lRWxr_hlM0 (on finance and economics)
+
+### People that the speaker  had referd to:
+
+Ashwath Damodaran
+
+Richard Turner
 
 ## Some snaps from the session
 
