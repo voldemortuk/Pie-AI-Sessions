@@ -18,6 +18,8 @@ For this event, our guest speaker is :
 
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Turning%20Your%20ML%20Project%20into%20a%20Research%20Paper/WhatsApp%20Image%202021-06-22%20at%207.46.13%20PM%20(1).jpeg)
 
+## Session Resources 
+
 
 ## Some snaps from the session
 
