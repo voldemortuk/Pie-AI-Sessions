@@ -20,6 +20,15 @@ For this event, our guest speaker is :
 
 ## Session Resources 
 
+[Understanding LSTM networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+ By Christopher Olah
+
+
+[A survey of deep neural network architectures and their applications](https://www.sciencedirect.com/science/article/pii/S0925231216315533?casa_token=g1ANxDcjr0MAAAAA:Mol6xgQQx51z3F1kcXEhQetrAR2Pbsl4fH2aQEDbAGbEEpTJhTkKFjTyzc-oQkCUS6mdZ4iPF2k)
+
+
+
+[A Survey on Deep Learning: Algorithms, Techniques, and Applications](https://dl.acm.org/doi/abs/10.1145/3234150?casa_token=7RSvt9-AM5EAAAAA%3Aq3naa4-FiGqz4jcrooMjoCNrabReOodAPBX3s2RUzogXN7VufdMdtR4_-c1Ob4DQgiEedwRLxk2ciw)
 
 ## Some snaps from the session
 
