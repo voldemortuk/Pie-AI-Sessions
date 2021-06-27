@@ -14,7 +14,7 @@ In this session , Dr. M.Sudheep Elayidom will take us through 	advanced deep lea
 what is quality research and other aspects of how about going 	through turning your machine learning project into a research 	paper 
 
 For this event, our guest speaker is :
-[Dr. M.Sudheep Elayidom]() : Professor( School of Engineering , CUSAT )
+[Dr. M.Sudheep Elayidom](https://www.linkedin.com/in/dr-m-sudheep-elayidom-554a8765/) : Professor( School of Engineering , CUSAT )
 
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Turning%20Your%20ML%20Project%20into%20a%20Research%20Paper/WhatsApp%20Image%202021-06-22%20at%207.46.13%20PM%20(1).jpeg)
 
