@@ -7,7 +7,7 @@ Saturday, June 26 - AI in Finance and Market Intelligence
 
 Use this to register for the session[Eventbrite link](bit.ly/AIinFinanceMI)
 
-Check out the whole session here [Youtube link]()
+Check out the whole session here [Youtube link](https://www.youtube.com/channel/UCuXvJwbgrDRAhk17A56WHwA)
 
 Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by event ambassador [Utkarsh Raj](https://voldemortuk.github.io) & Arya Vinod. Special thanks to their support!
 
