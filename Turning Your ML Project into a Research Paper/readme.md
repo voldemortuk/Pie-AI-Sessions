@@ -23,6 +23,8 @@ For this event, our guest speaker is :
 
 ## Some snaps from the session
 
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Turning%20Your%20ML%20Project%20into%20a%20Research%20Paper/Screenshot%202021-06-27%20at%207.21.39%20PM.png)
+
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Turning%20Your%20ML%20Project%20into%20a%20Research%20Paper/first.png)
 
 
