@@ -20,7 +20,7 @@ In this session, Vishnu Anilkumar walk us through the same and talk about the be
 For this event, our guest speaker is :
 [Vishnu Anilkumar]() 
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/Session_RNN.jpeg)
 
 
 ## Session Resources 
@@ -29,10 +29,13 @@ For this event, our guest speaker is :
 
 ## Some snaps from the session
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/first.png)
 
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/two.png)
 
 
-![alt text]()
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/three.png)
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/fourth.png)
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/fifth.png)
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/sixth.png)
