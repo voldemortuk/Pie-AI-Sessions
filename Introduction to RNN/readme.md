@@ -31,10 +31,13 @@ For this event, our guest speaker is :
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/first.png)
 
 
-![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/two.png)
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/second.png)
 
 
-![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/three.png)
+![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/third.png)
+
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/fourth.png)
+
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/fifth.png)
+
 ![alt text](https://github.com/voldemortuk/Pie-AI-Sessions/blob/main/Introduction%20to%20RNN/sixth.png)
