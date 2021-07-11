@@ -25,6 +25,7 @@ For this event, our guest speaker is :
 ## Session Resources 
 
 [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
+ https://jalammar.github.io/illustrated-transformer/
 
 ## Some snaps from the session
 
