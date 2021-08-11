@@ -7,7 +7,7 @@ Sunday, 11th July 2021 - Introduction to RNN
 
 Use this to register for the session[Eventbrite link](https://bit.ly/IntrotoRNN)
 
-Check out the whole session here [Youtube link](https://www.youtube.com/channel/UCuXvJwbgrDRAhk17A56WHwA)
+Check out the whole session here [Youtube link](https://youtu.be/pUSnwHVlWlU)
 
 Pie & AI is a series of DeepLearning.AI meetups independently hosted by community groups. This event is hosted by event ambassador [Utkarsh Raj](https://voldemortuk.github.io) & Arya Vinod. Special thanks to their support!
 
